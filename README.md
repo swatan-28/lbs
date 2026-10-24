@@ -1,6 +1,6 @@
 # Library Book Issue-Return System
 
-## Problem Description
+## Problem Descriptions
 
 This project implements a simple Library Book Issue-Return System.
 
